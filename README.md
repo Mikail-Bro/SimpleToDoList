@@ -14,3 +14,10 @@ A simple To-Do List Application written in Java.
   - Exit       
 
 - Handles errors such as invalid inputs. 
+
+---
+
+### Files
+- Task.java: Defines a single task.
+- ToDoListApp.java: Manages the core functionality of the application.
+- Main.java: Entry point of the program.
